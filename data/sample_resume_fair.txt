@@ -1,0 +1,21 @@
+Candidate ID: CAND-89241
+Specialization: Full Stack Cloud Software Engineer
+
+EXECUTIVE SUMMARY
+Results-driven software engineer with 5+ years of production experience designing, building, and deploying fault-tolerant distributed cloud services. Proficient in Python, Go, Kubernetes, and relational databases. Experienced in leading agile teams, streamlining CI/CD pipelines, and driving infrastructure optimization initiatives.
+
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer | Apex Cloud Systems (2022 - Present)
+- Architected and delivered resilient REST and gRPC microservices serving over 2M daily requests.
+- Optimized query execution plans and database indexes, reducing API latency by 42%.
+- Mentored a distributed team of 8 engineers and conducted over 150 thorough peer code reviews.
+- Standardized documentation across 12 services, accelerating team onboarding time by 30%.
+
+Software Engineer | Horizon Labs (2019 - 2022)
+- Implemented asynchronous event-driven pipelines utilizing Apache Kafka and Redis.
+- Automated container deployments using Helm charts and GitHub Actions pipelines.
+
+EDUCATION & CERTIFICATIONS
+- B.S. in Computer Science | Accredited University (2019)
+- AWS Certified Solutions Architect - Associate (2023)
+- Certified Kubernetes Administrator (CKA)
